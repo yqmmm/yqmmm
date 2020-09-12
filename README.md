@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at IPADS Lab at SJTU
+- 📫 Reach me: im.qianmian.yu@gmail.com
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **yqmmm/yqmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
