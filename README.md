@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at IPADS Lab at SJTU
+- 🔭 I’m currently studying at IPADS Lab in SJTU.
 - 📫 Reach me: im.qianmian.yu@gmail.com
 
 <!--START_SECTION:waka-->
