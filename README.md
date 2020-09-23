@@ -5,6 +5,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 15 September, 2020 - 22 September, 2020
+
 Java         13 hrs 41 mins  ████████████████░░░░░░░░░   64.39 % 
 Other        2 hrs 45 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 XML          1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
