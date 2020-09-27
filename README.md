@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 September, 2020 - 25 September, 2020
+Week: 19 September, 2020 - 26 September, 2020
 
-Ruby         14 hrs 41 mins  ███████████▒░░░░░░░░░░░░░   44.69 % 
-Java         9 hrs 42 mins   ███████▒░░░░░░░░░░░░░░░░░   29.56 % 
-Other        4 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-XML          1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Properties   34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Ruby     14 hrs 31 mins  ███████████▒░░░░░░░░░░░░░   44.95 % 
+Java     8 hrs 22 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.92 % 
+Other    4 hrs 53 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Python   48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+ERB      29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 <!--END_SECTION:waka-->
 
