@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 September, 2020 - 02 October, 2020
+Week: 26 September, 2020 - 03 October, 2020
 
-Ruby     12 hrs 14 mins  ██████████░░░░░░░░░░░░░░░   39.69 % 
-Java     8 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.29 % 
-Python   4 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Other    3 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-YAML     41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Ruby     11 hrs 48 mins  █████████▓░░░░░░░░░░░░░░░   39.32 % 
+Java     9 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   31.71 % 
+Python   3 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Other    2 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+YAML     41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 <!--END_SECTION:waka-->
 
