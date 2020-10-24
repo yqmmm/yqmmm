@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 October, 2020 - 22 October, 2020
+Week: 16 October, 2020 - 23 October, 2020
 
-Ruby     16 hrs 26 mins  ███████████░░░░░░░░░░░░░░   43.49 % 
-Other    5 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-SQL      4 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Python   3 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Vue.js   1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Ruby         15 hrs 10 mins  █████████▓░░░░░░░░░░░░░░░   39.09 % 
+Other        5 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+SQL          4 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Python       3 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+JavaScript   2 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 <!--END_SECTION:waka-->
 
