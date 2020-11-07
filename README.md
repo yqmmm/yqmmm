@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 October, 2020 - 05 November, 2020
+Week: 30 October, 2020 - 06 November, 2020
 
-Ruby       17 hrs 2 mins   ███████████████▒░░░░░░░░░   61.52 % 
-Other      4 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Markdown   1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Python     1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Bash       48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Ruby       15 hrs 33 mins  ██████████████▒░░░░░░░░░░   57.70 % 
+Other      4 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Markdown   2 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Bash       48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+YAML       40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 <!--END_SECTION:waka-->
 
