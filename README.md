@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 November, 2020 - 18 November, 2020
+Week: 12 November, 2020 - 19 November, 2020
 
-Other    11 hrs 58 mins  ██████████▒░░░░░░░░░░░░░░   41.58 % 
-Python   7 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Ruby     4 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Bash     1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-SQL      1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Other    12 hrs 43 mins  ██████████▓░░░░░░░░░░░░░░   42.36 % 
+Ruby     6 hrs 37 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.03 % 
+Python   5 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.66 % 
+SQL      1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Text     1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 <!--END_SECTION:waka-->
 
