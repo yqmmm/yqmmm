@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 November, 2020 - 23 November, 2020
+Week: 17 November, 2020 - 24 November, 2020
 
-Ruby     20 hrs 14 mins  ███████████░░░░░░░░░░░░░░   44.35 % 
-Other    12 hrs 22 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.10 % 
-Python   3 hrs 41 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Vue.js   2 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Text     1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Ruby     20 hrs 7 mins   ███████████▒░░░░░░░░░░░░░   45.75 % 
+Other    12 hrs 21 mins  ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+Python   2 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Vue.js   2 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Text     1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 <!--END_SECTION:waka-->
 
