@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying at IPADS Lab in SJTU.
-- 📫 Reach me: im.qianmian.yu@gmail.com
-
 <!--START_SECTION:waka-->
 ```text
 Week: 21 November, 2020 - 28 November, 2020
