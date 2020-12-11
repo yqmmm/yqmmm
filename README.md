@@ -2,13 +2,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2020 - 09 December, 2020
+Week: 03 December, 2020 - 10 December, 2020
 
-Ruby         23 hrs 28 mins  █████████████▒░░░░░░░░░░░   53.31 % 
-Go           6 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-JavaScript   4 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Other        3 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Vue.js       1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Ruby         19 hrs 19 mins  ███████████▓░░░░░░░░░░░░░   47.21 % 
+Go           7 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.64 % 
+JavaScript   4 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Other        3 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Vue.js       1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 <!--END_SECTION:waka-->
 
