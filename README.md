@@ -2,13 +2,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2020 - 30 December, 2020
+Week: 24 December, 2020 - 31 December, 2020
 
-Ruby    14 hrs 13 mins  █████████░░░░░░░░░░░░░░░░   35.35 % 
-Rust    10 hrs 38 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.45 % 
-Go      5 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Other   3 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Java    3 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Ruby    11 hrs 38 mins  ████████▒░░░░░░░░░░░░░░░░   33.14 % 
+Rust    6 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Go      5 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Java    3 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Other   2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 ```
 <!--END_SECTION:waka-->
 
