@@ -2,13 +2,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2020 - 01 January, 2021
+Week: 26 December, 2020 - 02 January, 2021
 
-Ruby    8 hrs 19 mins   ███████▓░░░░░░░░░░░░░░░░░   30.58 % 
-Go      5 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Rust    3 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Java    3 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Other   1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Ruby       8 hrs 7 mins    ████████▓░░░░░░░░░░░░░░░░   34.94 % 
+Go         5 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Java       3 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Other      1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Markdown   1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 ```
 <!--END_SECTION:waka-->
 
