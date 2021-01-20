@@ -2,13 +2,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2021 - 18 January, 2021
+Week: 12 January, 2021 - 19 January, 2021
 
-Rust       10 hrs 36 mins  ████████▒░░░░░░░░░░░░░░░░   33.93 % 
-Java       10 hrs 25 mins  ████████▒░░░░░░░░░░░░░░░░   33.37 % 
-Markdown   4 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Nix        1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Other      1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Rust       8 hrs 50 mins   ████████░░░░░░░░░░░░░░░░░   31.48 % 
+Java       6 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Markdown   5 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Nix        1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Other      1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 ```
 <!--END_SECTION:waka-->
 
