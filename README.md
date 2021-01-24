@@ -2,13 +2,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2021 - 22 January, 2021
+Week: 16 January, 2021 - 23 January, 2021
 
-Markdown   6 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.13 % 
-Rust       5 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-VimL       4 hrs           ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Text       3 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Other      1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Markdown   5 hrs 24 mins   ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Rust       4 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+VimL       4 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Text       3 hrs 32 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Other      1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 ```
 <!--END_SECTION:waka-->
 
