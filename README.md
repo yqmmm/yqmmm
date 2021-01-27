@@ -2,13 +2,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 January, 2021 - 25 January, 2021
+Week: 19 January, 2021 - 26 January, 2021
 
-Markdown   5 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.31 % 
-VimL       4 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Go         4 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Text       3 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Other      37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Go         9 hrs 12 mins   ██████████▒░░░░░░░░░░░░░░   40.98 % 
+Markdown   4 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.87 % 
+VimL       4 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Text       3 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Other      40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 <!--END_SECTION:waka-->
 
