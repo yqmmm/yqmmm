@@ -2,13 +2,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2021 - 06 February, 2021
+Week: 31 January, 2021 - 07 February, 2021
 
-TeX        5 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.28 % 
-Markdown   3 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Python     3 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-HTML       2 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Ruby       2 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+TeX        4 hrs 57 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.94 % 
+Python     3 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.71 % 
+HTML       2 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Markdown   2 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Lua        1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 ```
 <!--END_SECTION:waka-->
 
