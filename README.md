@@ -2,13 +2,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2021 - 09 February, 2021
+Week: 03 February, 2021 - 10 February, 2021
 
-Python     3 hrs 16 mins   ███████░░░░░░░░░░░░░░░░░░   28.08 % 
-HTML       2 hrs 37 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.48 % 
-TeX        2 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Markdown   1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Other      51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Python     4 hrs 1 min     ████████▒░░░░░░░░░░░░░░░░   33.02 % 
+HTML       2 hrs 39 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.86 % 
+TeX        2 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Markdown   1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Other      30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 ```
 <!--END_SECTION:waka-->
 
