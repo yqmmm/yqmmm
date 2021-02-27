@@ -2,13 +2,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 February, 2021 - 25 February, 2021
+Week: 19 February, 2021 - 26 February, 2021
 
-Markdown   4 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   35.74 % 
-Python     3 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-AsciiDoc   1 hr 58 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Ruby       54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-HTML       50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Markdown   4 hrs 40 mins   █████████░░░░░░░░░░░░░░░░   36.38 % 
+Python     3 hrs 6 mins    ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Other      1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Ruby       1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+HTML       50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 ```
 <!--END_SECTION:waka-->
 
