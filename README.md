@@ -2,13 +2,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 March, 2021 - 08 March, 2021
+Week: 02 March, 2021 - 09 March, 2021
 
-Other        11 hrs 43 mins  █████████░░░░░░░░░░░░░░░░   36.48 % 
-Go           6 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Ruby         3 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Python       3 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Emacs Lisp   2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Other        12 hrs 13 mins  █████████▓░░░░░░░░░░░░░░░   39.22 % 
+Go           6 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.09 % 
+Ruby         2 hrs 45 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Emacs Lisp   2 hrs 43 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Python       2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 ```
 <!--END_SECTION:waka-->
 
