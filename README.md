@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a graduate student at the institute of parallel and distributed systems (IPADS) in Shanghai Jiaotong University. I mainly work on database system.
+
 <!--START_SECTION:waka-->
 ```text
 Week: 19 April, 2021 - 26 April, 2021
