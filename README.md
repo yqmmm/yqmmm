@@ -4,13 +4,13 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 May, 2021 - 11 May, 2021
+Week: 05 May, 2021 - 12 May, 2021
 
-Rust              7 hrs 19 mins   ███████████░░░░░░░░░░░░░░   43.92 % 
-Org               7 hrs 3 mins    ██████████▓░░░░░░░░░░░░░░   42.29 % 
-Other             47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Nix               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Protocol Buffer   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Rust              9 hrs 11 mins   ████████████░░░░░░░░░░░░░   47.62 % 
+Org               7 hrs 1 min     █████████░░░░░░░░░░░░░░░░   36.45 % 
+Protocol Buffer   53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Other             49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Nix               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 <!--END_SECTION:waka-->
 
