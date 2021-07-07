@@ -4,13 +4,13 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 June, 2021 - 05 July, 2021
+Week: 30 June, 2021 - 06 July, 2021
 
-Rust   11 hrs 43 mins  ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-Org    10 hrs 33 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.49 % 
-Bash   5 hrs 44 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-C++    4 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Java   1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Rust   10 hrs 41 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.49 % 
+Org    10 hrs 20 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.63 % 
+Bash   6 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+C++    4 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Java   1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 ```
 <!--END_SECTION:waka-->
 
