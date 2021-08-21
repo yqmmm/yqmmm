@@ -4,11 +4,7 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 August, 2021 - 19 August, 2021
-
-Rust              3 hrs 10 mins   ███████████████████████▓░   94.20 % 
-Org               7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Protocol Buffer   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
