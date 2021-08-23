@@ -4,7 +4,10 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 16 August, 2021 - 22 August, 2021
+
+Haskell   47 mins         ███████████████████▒░░░░░   77.89 % 
+Org       13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.11 % 
 ```
 <!--END_SECTION:waka-->
 
