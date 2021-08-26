@@ -4,12 +4,12 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 August, 2021 - 24 August, 2021
+Week: 19 August, 2021 - 25 August, 2021
 
-Haskell   47 mins         ██████████████░░░░░░░░░░░   55.96 % 
-Ruby      15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Org       15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Java      6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Ruby      1 hr 26 mins    ████████████▒░░░░░░░░░░░░   49.06 % 
+Haskell   58 mins         ████████▒░░░░░░░░░░░░░░░░   33.51 % 
+Org       24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Java      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 ```
 <!--END_SECTION:waka-->
 
