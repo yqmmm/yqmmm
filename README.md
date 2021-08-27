@@ -4,7 +4,7 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 August, 2021 - 25 August, 2021
+Week: 20 August, 2021 - 26 August, 2021
 
 Ruby      1 hr 26 mins    ████████████▒░░░░░░░░░░░░   49.06 % 
 Haskell   58 mins         ████████▒░░░░░░░░░░░░░░░░   33.51 % 
