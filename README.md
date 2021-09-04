@@ -4,7 +4,7 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2021 - 02 September, 2021
+Week: 28 August, 2021 - 03 September, 2021
 
 Rust     11 hrs 51 mins  ███████████░░░░░░░░░░░░░░   43.54 % 
 C++      2 hrs 48 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
