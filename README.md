@@ -4,13 +4,13 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 September, 2021 - 20 September, 2021
+Week: 15 September, 2021 - 21 September, 2021
 
-Haskell   12 hrs 11 mins  ████████▒░░░░░░░░░░░░░░░░   33.73 % 
-TeX       7 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Java      6 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Other     2 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Gnuplot   1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Haskell   14 hrs 47 mins  ████████████▒░░░░░░░░░░░░   49.15 % 
+TeX       5 hrs 37 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Other     2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Java      1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Python    56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
 <!--END_SECTION:waka-->
 
