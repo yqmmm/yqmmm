@@ -4,13 +4,13 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 November, 2021 - 13 November, 2021
+Week: 08 November, 2021 - 14 November, 2021
 
-C++     12 hrs 16 mins  █████████░░░░░░░░░░░░░░░░   36.51 % 
-Other   4 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Go      4 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Ruby    4 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-YAML    1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C++     14 hrs 6 mins   ███████████░░░░░░░░░░░░░░   43.64 % 
+Other   3 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Ruby    2 hrs 57 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Lua     2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Go      2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 ```
 <!--END_SECTION:waka-->
 
