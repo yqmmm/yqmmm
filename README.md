@@ -4,13 +4,13 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2021 - 20 December, 2021
+Week: 15 December, 2021 - 21 December, 2021
 
-Rust   10 hrs 55 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.39 % 
-Java   5 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Go     5 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-YAML   3 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Ruby   3 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Rust   16 hrs 7 mins   ████████▒░░░░░░░░░░░░░░░░   33.30 % 
+Java   5 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Go     5 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Nix    3 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+YAML   2 hrs 43 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 ```
 <!--END_SECTION:waka-->
 
