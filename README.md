@@ -4,7 +4,7 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
 Rust    10 hrs 50 mins  ███████▒░░░░░░░░░░░░░░░░░   29.81 % 
 Ruby    7 hrs 34 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.86 % 
