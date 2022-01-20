@@ -4,7 +4,7 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2022 - 18 January, 2022
+Week: 13 January, 2022 - 19 January, 2022
 
 CSV    4 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.14 % 
 Bash   3 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
