@@ -4,7 +4,7 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2022 - 09 February, 2022
+Week: 04 February, 2022 - 10 February, 2022
 
 Rust   9 hrs 41 mins   ██████████████░░░░░░░░░░░   55.86 % 
 TeX    5 hrs 44 mins   ████████▒░░░░░░░░░░░░░░░░   33.11 % 
