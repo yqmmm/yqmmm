@@ -5,14 +5,14 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2022 - To: 13 March 2022
+From: 07 March 2022 - To: 14 March 2022
 
-C++             12 hrs 5 mins   █████████░░░░░░░░░░░░░░░░   35.76 %
-TeX             11 hrs 54 mins  ████████▓░░░░░░░░░░░░░░░░   35.20 %
-ObjectiveC      2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-CMake           1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Nix             1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Markdown        52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+TeX             14 hrs 46 mins  ████████████▒░░░░░░░░░░░░   48.80 %
+C++             8 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   27.48 %
+ObjectiveC      2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+Markdown        42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Ruby            41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+YAML            33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:waka-->
