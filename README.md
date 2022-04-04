@@ -5,14 +5,14 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 March 2022 - To: 02 April 2022
+From: 27 March 2022 - To: 03 April 2022
 
-JavaScript   9 hrs 13 mins   ███████████▒░░░░░░░░░░░░░   44.98 %
-HTML         3 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
-C++          3 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-TeX          2 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Rust         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JavaScript   9 hrs 2 mins    ████████████░░░░░░░░░░░░░   47.71 %
+C++          3 hrs 39 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.29 %
+TeX          2 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+HTML         1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Rust         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
