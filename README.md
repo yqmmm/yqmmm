@@ -5,14 +5,14 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 May 2022 - To: 09 May 2022
+From: 03 May 2022 - To: 10 May 2022
 
-C++             21 hrs 22 mins  ██████████████████░░░░░░░   72.51 %
-Python          2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Rust            2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-YAML            1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Lua             47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Nix             38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+C++             25 hrs 28 mins  █████████████████▓░░░░░░░   71.31 %
+Python          2 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+YAML            2 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+Rust            1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Lua             47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Nix             38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
