@@ -5,14 +5,14 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 June 2022 - To: 12 June 2022
+From: 06 June 2022 - To: 13 June 2022
 
-TeX          21 hrs 39 mins  █████████████████▒░░░░░░░   68.82 %
-Rust         4 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-Gnuplot      59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-C++          55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Python       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-BibTeX       33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+TeX          21 hrs 28 mins  █████████████████▓░░░░░░░   71.20 %
+Rust         4 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+Gnuplot      59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Python       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+BibTeX       33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Text         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
