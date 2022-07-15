@@ -5,11 +5,11 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 July 2022 - To: 13 July 2022
+From: 07 July 2022 - To: 14 July 2022
 
-TeX               5 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   32.23 %
-Java              3 hrs 59 mins   ██████░░░░░░░░░░░░░░░░░░░   24.58 %
-Other             3 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
+TeX               5 hrs 47 mins   ███████▓░░░░░░░░░░░░░░░░░   30.38 %
+Java              5 hrs 9 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
+Other             3 hrs 13 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
 ```
 
 <!--END_SECTION:waka-->
