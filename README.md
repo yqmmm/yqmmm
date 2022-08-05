@@ -5,7 +5,7 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 July 2022 - To: 03 August 2022
+From: 28 July 2022 - To: 04 August 2022
 
 Java              4 hrs 9 mins    ████████████████████████▓   98.10 %
 Protocol Buffer   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
