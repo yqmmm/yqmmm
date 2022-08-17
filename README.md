@@ -5,12 +5,11 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 August 2022 - To: 15 August 2022
+From: 09 August 2022 - To: 16 August 2022
 
-C++          2 hrs 18 mins   █████████████████████▒░░░   85.35 %
-Clojure      8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-TeX          8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-Git Config   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+C++          1 hr 39 mins    █████████████████████▓░░░   86.43 %
+Clojure      8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+Git Config   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
 conf         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
