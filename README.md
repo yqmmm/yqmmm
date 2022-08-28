@@ -5,7 +5,7 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 August 2022 - To: 26 August 2022
+From: 20 August 2022 - To: 27 August 2022
 
 TeX            2 hrs 18 mins   █████████████████████▒░░░   85.68 %
 C++            17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
