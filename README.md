@@ -5,7 +5,7 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 September 2022 - To: 09 September 2022
+From: 03 September 2022 - To: 10 September 2022
 
 C++         3 hrs 23 mins   ███████████████████████░░   91.52 %
 YAML        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
