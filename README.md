@@ -5,14 +5,14 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2022 - To: 10 September 2022
+From: 05 September 2022 - To: 12 September 2022
 
-C++         3 hrs 23 mins   ███████████████████████░░   91.52 %
-YAML        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-sshconfig   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-fish        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-tmux        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-conf        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+C++         1 hr 28 mins    ████████████████████░░░░░   80.25 %
+YAML        9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+sshconfig   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+fish        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Python      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+tmux        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
