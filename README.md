@@ -5,11 +5,12 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 October 2022 - To: 09 October 2022
+From: 03 October 2022 - To: 10 October 2022
 
-Rust        3 hrs 32 mins   █████████████████████░░░░   83.98 %
-TeX         30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-Other       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Rust        3 hrs 32 mins   ███████████████▓░░░░░░░░░   62.19 %
+Python      1 hr 27 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.60 %
+TeX         30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+Other       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
