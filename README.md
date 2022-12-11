@@ -5,14 +5,14 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 09 December 2022
+From: 03 December 2022 - To: 10 December 2022
 
-OCaml      1 hr 45 mins    █████████▓░░░░░░░░░░░░░░░   39.07 %
-TeX        55 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
-lisp       46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
-Lua        20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-BibTeX     20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-desktop    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+OCaml      1 hr 45 mins    ███████████░░░░░░░░░░░░░░   43.85 %
+lisp       46 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
+TeX        40 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
+Lua        20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+BibTeX     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+desktop    8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 ```
 
 <!--END_SECTION:waka-->
