@@ -5,7 +5,7 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 December 2022 - To: 10 December 2022
+From: 04 December 2022 - To: 11 December 2022
 
 OCaml      1 hr 45 mins    ███████████░░░░░░░░░░░░░░   43.85 %
 lisp       46 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
