@@ -5,14 +5,14 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 December 2022 - To: 15 December 2022
+From: 09 December 2022 - To: 16 December 2022
 
-JSON         1 hr 31 mins    ██████████░░░░░░░░░░░░░░░   39.83 %
-Python       36 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
-OCaml        36 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
-Gnuplot      22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-TOML         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Org          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+JSON         1 hr 31 mins    ███████████░░░░░░░░░░░░░░   44.15 %
+Python       36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
+Gnuplot      22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+Markdown     15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+TOML         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Org          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
