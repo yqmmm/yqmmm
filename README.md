@@ -5,7 +5,7 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 January 2023 - To: 08 January 2023
+From: 02 January 2023 - To: 09 January 2023
 
 OCaml       4 hrs 23 mins   ██████████████████▓░░░░░░   74.34 %
 Python      1 hr            ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
