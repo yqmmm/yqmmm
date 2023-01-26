@@ -5,9 +5,9 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 January 2023 - To: 24 January 2023
+From: 18 January 2023 - To: 25 January 2023
 
-OCaml   1 hr 33 mins    █████████████████████████   100.00 %
+OCaml   53 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
