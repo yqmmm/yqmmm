@@ -5,11 +5,12 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 January 2023 - To: 04 February 2023
+From: 29 January 2023 - To: 05 February 2023
 
-OCaml   15 mins         █████████████▓░░░░░░░░░░░   54.76 %
-C++     12 mins         ███████████░░░░░░░░░░░░░░   43.69 %
-Text    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+OCaml   58 mins         ████████████████████▓░░░░   82.04 %
+C++     12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
+Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+lisp    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
