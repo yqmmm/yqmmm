@@ -5,7 +5,7 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 February 2023 - To: 22 February 2023
+From: 16 February 2023 - To: 23 February 2023
 
 HTML         36 mins         ███████▓░░░░░░░░░░░░░░░░░   30.31 %
 SCSS         25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
