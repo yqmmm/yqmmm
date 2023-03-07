@@ -5,7 +5,7 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 February 2023 - To: 05 March 2023
+From: 27 February 2023 - To: 06 March 2023
 
 Python             1 hr 8 mins     ██████████████████▓░░░░░░   74.28 %
 Bash               6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
