@@ -5,11 +5,9 @@ I'm a graduate student at the institute of parallel and distributed systems (IPA
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 March 2023 - To: 19 March 2023
+From: 13 March 2023 - To: 20 March 2023
 
-Python     27 mins         ████████▓░░░░░░░░░░░░░░░░   35.26 %
-C++        24 mins         ████████░░░░░░░░░░░░░░░░░   31.40 %
-Other      23 mins         ███████▓░░░░░░░░░░░░░░░░░   30.21 %
+C++   24 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
