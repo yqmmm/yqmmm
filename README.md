@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a graduate student at the institute of parallel and distributed systems (IPADS) in Shanghai Jiaotong University. I mainly work on database system. I will be joining Jump Trading as a software engineer in spring 2023.
-
 <!--START_SECTION:waka-->
 
 ```txt
